@@ -1,0 +1,19 @@
+.logo img{
+    width: 300px;
+}
+.navigation{
+   display: flex;
+   justify-content: center;
+   background-color: black;
+}
+.nav a{
+    color: cornsilk;
+    margin: 10px;
+    text-decoration: none;
+}
+.nav a:hover{
+    background-color: cornsilk;
+    padding: 5px;
+    color: black;
+    border-radius: 10px;
+}
